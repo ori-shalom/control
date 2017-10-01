@@ -1,0 +1,24 @@
+{
+  "name": "control",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ori-shalom/control.git"
+  },
+  "author": "Ori Shalom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ori-shalom/control/issues"
+  },
+  "homepage": "https://github.com/ori-shalom/control#readme",
+  "dependencies": {
+    "mongodb": "^2.2.31",
+    "ws": "^3.2.0"
+  }
+}
